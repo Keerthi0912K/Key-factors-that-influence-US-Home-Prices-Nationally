@@ -1,12 +1,12 @@
 # Key-factors-that-influence-US-Home-Prices-Nationally
 
-##Objective:
+## Objective:
 This data science project aims to develop a model that explains how various economic factors have impacted home prices in the United States over the last 20 years. This analysis uses the S&P Case-Shiller Home Price Index as a proxy for home prices.
 
-##Preamble:
+## Preamble:
 Case-Shiller Index of US Residential House Prices Data comes from S&P Case-Shiller data and includes national indices and indices for 20 metropolitan regions. These indices are created using a repeat-sales methodology.
 
-##Data Sources:
+## Data Sources:
 1. S&P Case-Shiller Home Price Index (CSUSHPISA): Represents home price trends.
 2. Federal Funds Rate (FEDFUNDS): Represents interest rates.
 3. Unemployment Rate (UNRATE): Measures the percentage of the unemployed labor force.
@@ -15,7 +15,7 @@ Case-Shiller Index of US Residential House Prices Data comes from S&P Case-Shill
 6. Housing Starts (HOUST): Indicates the number of new residential construction projects.
 7. University of Michigan Consumer Sentiment Index (UMCSENT): Measures consumer confidence.
 
-##Methodology:
+## Methodology:
 1.Data Collection: Historical data for the above factors was collected from the Federal Reserve Economic Data (FRED) database and publicly available sources.
 2.Data Preprocessing:
       ~Checking and handling missing values.
@@ -36,7 +36,7 @@ Case-Shiller Index of US Residential House Prices Data comes from S&P Case-Shill
       ~Coefficients of the regression model were analsyzed to to determine the impact of each factor on home prices.
       ~Interpreting the direction and magnitude of influence of each factor.
 
-##Findings:
+## Findings:
 1. Interest Rates (FED FUNDS): Significant negative impact on home prices; lower rates generally lead to higher home prices.
 2. Unemployment Rate (UNRATE): Negative impact; higher unemployment rates are associated with lower home prices.
 3. Inflation (CPIAUCSL): Positive impact; moderate inflation is associated with rising home prices.
@@ -44,5 +44,5 @@ Case-Shiller Index of US Residential House Prices Data comes from S&P Case-Shill
 5. Housing Starts (HOUST): Positive impact; more new construction projects correlate with higher home prices.
 6. Consumer Sentiment (UMCSENT): Positive impact; higher consumer confidence is associated with rising home prices.
 
-##Conclusion:
+## Conclusion:
 This model provides valuable insights into how critical economic factors have influenced home prices in the United States over the last 20 years. These insights can help make informed decisions and predict future trends in the housing market.
