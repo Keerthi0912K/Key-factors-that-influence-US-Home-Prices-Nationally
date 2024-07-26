@@ -1,3 +1,8 @@
+
+![611193b832e02 image](https://github.com/user-attachments/assets/5d336095-47ba-49ad-97ea-caf0f3c59c06)
+
+
+
 # Key-factors-that-influence-US-Home-Prices-Nationally
 
 ## Objective:
