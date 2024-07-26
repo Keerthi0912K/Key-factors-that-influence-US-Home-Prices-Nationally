@@ -42,9 +42,9 @@ Case-Shiller Index of US Residential House Prices Data comes from S&P Case-Shill
 
 5. Model Evaluation:\n
 
-   ~The model was evaluated using Root Mean Squared Error (RMSE) and R² score.
+      ~The model was evaluated using Root Mean Squared Error (RMSE) and R² score.
 
-   ~An RMSE of 8.36 and an R² score of 0.982 indicate excellent model performance, suggesting that the model effectively    captures the relationship between economic factors and home prices.
+      ~An RMSE of 8.36 and an R² score of 0.982 indicate excellent model performance, suggesting that the model effectively    captures the relationship between economic factors and home prices.
 
 6.Interpretation - Feature Importance:
       
