@@ -40,7 +40,7 @@ Case-Shiller Index of US Residential House Prices Data comes from S&P Case-Shill
       
       ~Regularization techniques like Lasso and Ridge regression to handle multicollinearity.
 
-5. Model Evaluation:\n
+5. Model Evaluation:
 
       ~The model was evaluated using Root Mean Squared Error (RMSE) and R² score.
 
